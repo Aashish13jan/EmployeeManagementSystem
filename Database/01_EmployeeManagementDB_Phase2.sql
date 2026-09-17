@@ -1,8 +1,7 @@
 /* ============================================================================
    EMPLOYEE MANAGEMENT SYSTEM - PHASE 2
    Database creation, tables, constraints, stored procedures, sample data
-   Target: SQL Server 2019+ (works on 2016+ too)
-   Execute this script top to bottom in SSMS / Azure Data Studio.
+   
    ============================================================================ */
 
 
